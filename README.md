@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Sushanth
+# 👋 <h2 align="center">Hi there, I’m Sushanth</h2>
 - 💡  I like to explore new technologies and develop software solutions and quick hacks.
 - 👀 I am curretly pursuing B.Tech specialised in computer science with an overall cgpa of 9.3.
 - 🌱 I’m currently working on developing android applications and websites which were responsive.
