@@ -3,6 +3,7 @@
  <p align="center">
   • <a href="https://www.linkedin.com/in/sushanth-rao-nannepaga-4831b120b/">LinkedIN</a> 
 </p>
+
  ## 📖 About me
 - 💡 I like to explore new technologies and develop software solutions.
 - 👀 I am curretly pursuing B.Tech specialised in computer science with an overall cgpa of 9.3.
