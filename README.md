@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate with any Open - Source android projects and intrested in doing internships to specialiese my skills at work.
 - 📫 You can interact with me over email at sushanthrao2001@gmail.com! I'll try to respond as soon as I can.
 
-## 🛠 &nbsp;Tech Stack
+  ## 🛠 &nbsp;Tech Stack
 
 <!---
 Sushanthrao2001/Sushanthrao2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
