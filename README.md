@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sushanthrao
-- 👀 Hi i am sushanth.I am a hard working engineering graduate specialised in cse with an overall cgpa of 9.3 .
-- 🌱 I’m currently working on developing android applications ans webites which were responsive.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I am a hard working engineering graduate specialised in cse with an overall cgpa of 9.3 .
+- 🌱 I’m currently working on developing android applications and websites which were responsive.
+- 💞️ I’m looking to collaborate on with some companies and intrested in doing internships to specialiese my skills in the work.
 - 📫 How to reach me ...
 
 <!---
