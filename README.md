@@ -2,7 +2,7 @@
 - 👀 I am a hard working engineering graduate specialised in cse with an overall cgpa of 9.3 .
 - 🌱 I’m currently working on developing android applications and websites which were responsive.
 - 💞️ I’m looking to collaborate on with some companies and intrested in doing internships to specialiese my skills in the work.
-- 📫 How to reach me ...
+- 📫 You can interact with me over email or with pull requests.
 
 <!---
 Sushanthrao2001/Sushanthrao2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
