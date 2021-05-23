@@ -10,7 +10,16 @@
 - 📫 You can interact with me over email at sushanthrao2001@gmail.com! I'll try to respond as soon as I can.
 - 😄 Pronouns: He/Him.
 
-  <!--## 🛠 &nbsp;Tech Stack-->
+## 🛠 &nbsp;Tech Stack
+ - Languages: Python, Java, C.
+ - Android:
+   - Software: Android Studio.
+   - Backend: Java, Firebase.
+ - Web Development:
+   - Software: VS Code.
+   - Frontend: HTML, CSS, Boorstrap.
+   - Backend: Java Script,J query.
+   - Database: PHP, My SQL.
   
 
 
