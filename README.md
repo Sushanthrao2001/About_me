@@ -3,7 +3,7 @@
 - 👀 I am curretly pursuing B.Tech specialised in computer science with an overall cgpa of 9.3 .
 - 🌱 I’m currently working on developing android applications and websites which were responsive.
 - 💞️ I’m looking to collaborate with any Open - Source android projects and intrested in doing internships to specialiese my skills in the work.
-- 📫 You can interact with me over email at sushanthrao2001@gmail.com I'll try to respond as soon as I can.
+- 📫 You can interact with me over email at sushanthrao2001@gmail.com! I'll try to respond as soon as I can.
 
 
 <!---
