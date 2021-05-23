@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Sushanthrao
+# 👋 Hi there, I’m Sushanth
 - 💡  I like to explore new technologies and develop software solutions and quick hacks.
 - 👀 I am a hard working engineering graduate specialised in cse with an overall cgpa of 9.3 .
 - 🌱 I’m currently working on developing android applications and websites which were responsive.
