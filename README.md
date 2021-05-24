@@ -31,8 +31,8 @@
  - Time Management.
  - Project Management.
  - Communication.
- - Experimentation.
  - Team Work.
+ - Experimentation.
  - Computer and technology knowledge.
  - Computer Hardware Emgineering.
   
