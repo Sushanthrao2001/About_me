@@ -16,7 +16,7 @@
 
 ## 🛠 &nbsp;Tech Stack
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/image.gif">
+  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/Sushanthrao2001/About_me/blob/main/image.gif">
 </a>
 
  - Languages: Python, Java, C.
