@@ -21,12 +21,17 @@
 
  - Languages: Python, Java, C.
  - Android:
-   - Software: Android Studio.
-   - Backend: Java, Firebase.
+   - Android Studio
+   - Java
+   - Firebase
  - Web Development:
-   - Software: VS Code.
-   - Frontend: HTML, CSS, Java Script, Bootstrap.
-   - Backend: PHP, My SQL, JQuery.
+   - HTML 5
+   - CSS 3
+   - Java Script
+   - Bootstrap
+   - PHP
+   - My SQL
+   - JQuery
  
 ## 👨🏻‍💻 &nbsp;Skills
  - Time Management.
