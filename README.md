@@ -15,16 +15,18 @@
 - 😄 Pronouns: He/Him.
 
 ## 🛠 &nbsp;Tech Stack
-<a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/Sushanthrao2001/About_me/blob/main/image.gif">
-</a>
-
  - Languages: Python, Java, C.
  - Android:
    - Android Studio
    - Java
    - Firebase
+   
+   <a target="_blank">
+  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/Sushanthrao2001/About_me/blob/main/image.gif">
+   </a>
+
  - Web Development:
+ 
    - HTML 5
    - CSS 3
    - Java Script
