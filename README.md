@@ -1,5 +1,5 @@
  <h1 align="center">Hi there 👋 , I’m Sushanth</h1>
- <h3 align="center">A 20-year old technical enthusiast 👨‍💻 who does Android and Web development.Passionate to contribute open-source projects and looking to solve real-world problems🌏.</h3> 
+ <h3 align="center">A 21-year old technical enthusiast 👨‍💻 who does Android and Web development.Passionate to contribute open-source projects and looking to solve real-world problems🌏.</h3> 
  <p align="center">
   • <a href="https://www.linkedin.com/in/sushanth-rao-nannepaga-4831b120b/">LinkedIN</a> 
 </p>
