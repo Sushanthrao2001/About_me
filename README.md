@@ -9,7 +9,7 @@
 - 👀 I am curretly pursuing B.Tech specialised in computer science with an overall cgpa of 9.3.
 - 🌱 I’m working on developing android applications and websites which were responsive.
 - 💞️ I’m looking to collaborate with any android or web developers.
-- 🧠 Intrested in doing internships to specialise my skills at work.
+- 🧠 Intrested in doing internships to specialise my skills at work and in technology.
 - ✍️ I like to explore Internet, Music 🎧 & Checking each and every functionality of a widget in website or an app.
 - 📫 You can interact with me over email at sushanthrao2001@gmail.com! I'll try to respond as soon as I can.
 - 😄 Pronouns: He/Him.
