@@ -6,7 +6,7 @@
 
  ## 📖 About me
 - 💡 I like to explore new technologies and develop software solutions.
-- 👀 I am curretly pursuing B.Tech specialised in computer science with an overall cgpa of 9.3.
+- 👀 I am pursuing B.Tech specialised in computer science with an overall cgpa of 9.3.
 - 🌱 I’m working on developing android applications and websites which were responsive.
 - 💞️ I’m looking to collaborate with any android or web developers.
 - 🧠 Intrested in doing internships to specialise my skills at work and in technology.
