@@ -6,7 +6,7 @@
 
  ## 📖 About me
 - 💡 I like to explore new technologies and develop software solutions.
-- 👀 I pursued B.Tech in the stream of computer science.
+- 👀 I pursued engineering in the stream of computer science.
 - 🌱 I’m working on developing android applications and websites which were responsive.
 - 💞️ I’m looking to collaborate with any android or web developers.
 - 🧠 Intrested in doing internships to specialise my skills at work and in technology.
